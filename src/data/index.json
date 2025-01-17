@@ -1,0 +1,86 @@
+
+{
+    "skills": [
+        {
+            "id": "1", 
+            "src": "./img/react_icon.png", 
+            "title": "Front-End", 
+            "description": "Skilled in React, HTML, and CSS, I specialize in designing visually stunning, responsive, and intuitive websites. Focused on user experience, I bring ideas to life."
+        },
+
+        {
+            "id": "2", 
+            "src": "./img/prisma.png", 
+            "title": "Back-End", 
+            "description": "Experienced in Prisma, SQL, and Docker. I can develop reliable and efficient databases that form the backbone of scalable and high-performing applications."
+        },
+
+        {
+            "id": "3", 
+            "src": "./img/Python.png", 
+            "title": "Python", 
+            "description": "With years of experience as a Python developer, I specialize in machine learning, leveraging TensorFlow and Scikit-Learn to build intelligent, data-driven solutions." 
+        },
+
+        {
+            "id": "4", 
+            "src": "./img/swift.png", 
+            "title": "SwiftUI", 
+            "description": "Experienced in Swift and SwiftUI, I create feature-rich iOS apps with intuitive interfaces, optimized performance, and seamless integration of modern Apple frameworks." 
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id": "1", 
+            "src": "./img/hackathon_bot.png", 
+            "title": "Hackathon Helper",
+            "tech": "Python, Discord API, HTML, CSS",
+            "description": "Developed a Discord bot for enhancing hackathons and community experiences with a variety of important features including message management (clearing messages, exporting chat logs, and managing channels), time management, language translation, personalized ID cards, and admin tools.",
+            "link": "https://github.com/Aryan0102/Hackathon-Helper-Discord-Bot/tree/main"
+        },
+
+        {
+            "id": "2", 
+            "src": "./img/conway_gol.png", 
+            "title": "Conway's Game of Life", 
+            "tech": "Python",
+            "description": "Implemented a variant of Conway's Game of Life, a cellular automaton, where 2 players interact with a grid of cells. The cells can be in one of 3 states and the simulation progresses by applying game rules that govern cell birth, deaths, and transitions. Players can take turns modifying the grid by removing or adding their own pieces with the intention to simulate multiple generations. Includes pattern loading from external files, player driven input, custom cell rules, and visual representation through text based grid.",
+            "link": "https://github.com/Aryan0102/2P-Conway-s-Game-of-Life"
+        },
+
+        {
+            "id": "3", 
+            "src": "./img/sorts.png", 
+            "title": "Assorted Sorts", 
+            "tech": "Python, Matplotlib",
+            "description": "Project demonstrates various sorting algorithms like Insertion Sort, Bubble Sort, Merge Sort, and Quick Sort. Each algorithm is tested with worse case input and its run time is measured and graphed against increasing problem sizes. It also includes various recursive functions like cascade and inverse cascade as well as a palindrome checker. It also provides three different ways to validate and match nested parentheses.",
+            "link": "https://github.com/Aryan0102/Assorted-Sorting-Algorithms"
+        }
+    ],
+
+    "experience": [
+        {
+            "id": "1", 
+            "src": "./img/ner.jpg", 
+            "title": "Northeastern Electric Racing", 
+            "description": "At Northeastern Electric Racing, I am combining technical expertise and teamwork to drive project progress. I am developing features for the project management suite, FinishLine by NER, using Prisma, TypeScript, and React, integrating a custom-built database to create a robust and interactive platform. I am on the web development team, specifically onboarding and recruitment, but I work with interdisciplinary teams to implement tickets."
+        },
+
+        {
+            "id": "2", 
+            "src": "./img/bytebash.png", 
+            "title": "Bytebash Programming", 
+            "description": "Recognizing the need for accessible programming education, I founded ByteBash Programming, a Python bootcamp designed to empower learners with foundational coding skills. Over the course of two sessions, I led a team to deliver a weeklong intensive curriculum to over 10 students, teaching them not just syntax and logic but also how to turn their ideas into tangible projects. From marketing the program to planning lesson content and managing finances, I took ownership of the entire process. This experience was done out of my passion for teaching, leadership, and fostering computational literacy in my community."
+        },
+
+        {
+            "id": "3", 
+            "src": "./img/inspirit.png", 
+            "title": "Inspirit AI Scholar", 
+            "description": "As an Inspirit AI Scholar, I worked alongside doctoral students and peers to tackle the pervasive issue of fake news using cutting-edge artificial intelligence techniques. Together, we developed a sophisticated detection system powered by natural language processing and logistic regression. By implementing methods such as Bag-of-Words and GloVe representations, we significantly enhanced the model’s prediction accuracy. The program culminated in a detailed presentation, where I showcased our results and insights to a large audience of fellow scholars. This experience deepened my understanding of AI's transformative potential and reinforced my commitment to leveraging technology for societal impact."
+
+
+        }
+    ]
+}
